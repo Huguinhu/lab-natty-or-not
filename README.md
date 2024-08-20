@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# A evolução constante das IAs na geração de imagens
 
 ## 🚀 Introdução
 
