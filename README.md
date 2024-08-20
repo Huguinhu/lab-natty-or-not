@@ -19,9 +19,14 @@ O prompt uitilizado foi bem simples, pois não queria confundir informações se
 Em uma plataforma específica, tive de mudar a linguagem do prompt para o inglês, pois estava dando erro na geração,
 
 ## 🚀 Resultados
+Vou precisar da sua interação com o projeto! Identifique qual dessas imagens é gerada por IA e qual delas é a real.
+## Imagem 1:
 ![Filhote de panda Copilot](https://github.com/user-attachments/assets/efce756c-1422-471a-b117-5acee4a7c1c2)
+## Imagem 2:
 ![craiyon_155542_filhote_de_urso_panda_comendo_bambu](https://github.com/user-attachments/assets/43cfcecb-0cec-450f-ac12-684ea3c5aee3)
+## Imagem 3:
 ![Panda_bear_cub_eating_bamboo_c5cd30225bf9ba64](https://github.com/user-attachments/assets/9d926e8e-4aed-4b6a-bd2a-063bf37ef1d3)
+## Imagem 4:
 ![pandinha real](https://github.com/user-attachments/assets/4ed678b9-219e-40ca-ae8a-34683f70126e)
 
 ## E aí? Conseguiu identificar qual é a imagem real e qual é a imagem criada com IA? 
