@@ -1,51 +1,35 @@
 # A evolução constante das IAs na geração de imagens
 
-## 🚀 Introdução
+## 🚀 Descrição
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+O objetivo do projeto é mostrar qual é a capacidade das inteligências artificiais na criação de imagens através de prompts. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- bria.ai
+- microsoft copilot
+- craiyon
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei três plataformas (as melhores) para a criação das imagens, pois a maioria pedia subscrição paga para a utilização ou não estavam aceitando os prompts necessários.
+O prompt uitilizado foi bem simples, pois não queria confundir informações seja na linguagem ou detalhes da imagem.
+
+>Filhote de urso panda comendo bambu
+
+Em uma plataforma específica, tive de mudar a linguagem do prompt para o inglês, pois estava dando erro na geração,
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Filhote de panda Copilot](https://github.com/user-attachments/assets/efce756c-1422-471a-b117-5acee4a7c1c2)
+![craiyon_155542_filhote_de_urso_panda_comendo_bambu](https://github.com/user-attachments/assets/43cfcecb-0cec-450f-ac12-684ea3c5aee3)
+![Panda_bear_cub_eating_bamboo_c5cd30225bf9ba64](https://github.com/user-attachments/assets/9d926e8e-4aed-4b6a-bd2a-063bf37ef1d3)
+![pandinha real](https://github.com/user-attachments/assets/4ed678b9-219e-40ca-ae8a-34683f70126e)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## E aí? Conseguiu identificar qual é a imagem real e qual é a imagem criada com IA? 
+Se prepare para a verdade! A foto real do urso panda comendo bambu é a 4ª! Incrível né?
+Provavelmente você identificou de cara qual delas a criada com IA. Certeza que já olhou estranho para a segunda imagem né? Foi criada, assim como as outras 2, por inteligência artificial.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão 
+Não tinha uma expectativa muito boa com essas plataformas, pois sabia que pelo fato de serem gratuitas poderiam me decepcionar em certos aspectos. Mas fiquei impressionado principalmente com a qualidade das imagens geradas pelo Copilot e BRIA.IA. 
+Infelizmente a plataforma Craiyon me decepcionou pois, de todas as imagens criadas, foi a mais deformada e estranha. Mas pelo que vi ela é mais especializada em estilos artísticos e não realismo.
+Dito isso, fico impressionado com o quão longe chegamos na atualizadade. Fizemos com que um simples prompt se tornasse uma imagem, e mais incrível ainda, criamos Inteligências Artificiais capazes de descriptografar esses prompts em diferentes linguagens em contextos, atendendo ao cliente de forma prática e rápida. Isso abre um leque de possibilidades e é uma mãona roda para artistas que muitas vezes precisam de ideias para as suas artes.
+Realmente incrível.
